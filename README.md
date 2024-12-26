@@ -13,5 +13,6 @@ This is a Machine-Learning(ML) based project to predict heart disease. This data
 <br>10.)old peak = ST depression induced by exercise relative to rest</br>
 <br>11.)the slope of the peak exercise ST segment</br>
 <br>12.)number of major vessels (0-3) colored by fluoroscopy</br>
-<br>13.)thal: 0 = normal; 1 = fixed defect; 2 = reversable defect The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. [Exact Information available on Kaggle] </br></p>
+<br>13.)thal: 0 = normal; 1 = fixed defect; 2 = reversable defect The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. [Exact Information available on Kaggle] </br></p><br>
 We are applying 5 Machine Learning algorithms:- Linear Regression, Support Vector Machine(SVM), K-nearest neighbours (KNN), Random Forest Classifier And Gradient Booster. I found the Random Forest Classifier as the most accurate that is why will be using it to train final dataset and for deployment purposes. At last, I made a Graphical User Interface(GUI) for users.
+</br>
